@@ -23,6 +23,8 @@
    English | <a href="README_ZH.md">中文<a/> | <a href="README_JP.md">日本語<a/>
 </p>
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/yuzzjj/higress)
+
 ## What is Higress?
 
 Higress is a cloud-native API gateway based on Istio and Envoy, which can be extended with Wasm plugins written in Go/Rust/JS. It provides dozens of ready-to-use general-purpose plugins and an out-of-the-box console (try the [demo here](http://demo.higress.io/)).
